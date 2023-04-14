@@ -44,5 +44,3 @@ export default class FullList implements List {
     this.save();
   }
 }
-
-const list = new FullList();
